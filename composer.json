@@ -7,8 +7,8 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/product": "^6.43.0",
-        "spryker/product-approval": "^1.1.0",
+        "spryker/product": "^6.49.0",
+        "spryker/product-approval": "^1.2.0",
         "spryker/product-approval-data-import": "^0.1.0",
         "spryker/product-approval-gui": "^1.2.0",
         "spryker/product-management": "^0.19.25"
