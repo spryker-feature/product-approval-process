@@ -10,12 +10,12 @@
         "spryker/product": "^6.53.0",
         "spryker/product-approval": "^1.4.0",
         "spryker/product-approval-data-import": "^0.1.0",
-        "spryker/product-approval-gui": "^2.0.0",
+        "spryker/product-approval-gui": "^2.1.0",
         "spryker/product-management": "^0.20.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     }
 }
