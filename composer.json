@@ -7,15 +7,15 @@
     "prefer-stable": true,
     "require": {
         "php": ">=8.2",
-        "spryker/product": "^6.56.0",
-        "spryker/product-approval": "^1.5.0",
+        "spryker/product": "^6.57.0",
+        "spryker/product-approval": "^1.6.0",
         "spryker/product-approval-data-import": "^0.1.0",
         "spryker/product-approval-gui": "^2.1.0",
         "spryker/product-management": "^0.20.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202608.x-dev"
+            "dev-master": "202610.x-dev"
         }
     }
 }
